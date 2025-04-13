@@ -1,0 +1,5 @@
+[tools]
+java = "corretto-8"
+maven = "3"
+node = "18"
+usage = "latest"

@@ -1,0 +1,46 @@
+# system
+brew "vim"
+brew "git"
+brew "git-lfs"
+brew "wget"
+brew "curl"
+brew "make"
+brew "cmake"
+brew "openssh"
+brew "grep"
+
+# cli
+brew "zoxide"
+brew "jq"
+brew "bash"
+brew "tree"
+brew "tmux"
+brew "zsh"
+brew "fzf"
+brew "direnv"
+brew "knqyf263/pet/pet"
+brew "eza"
+brew "trash-cli"
+brew "awscli"
+brew "zsh-syntax-highlighting"
+brew "zsh-autosuggestions"
+
+# development
+brew 'mise'
+brew 'gradle'
+brew 'mvn'
+brew 'pyenv'
+brew 'pyenv-virtualenv'
+brew 'git-delta'
+brew 'kubectl'
+brew 'kubectx'
+brew 'k9s'
+brew 'kubetail'
+brew 'helm'
+brew 'mysql'
+brew 'pkg-config'
+brew 'git-absorb'
+
+# app
+cask "raycast"
+cask "numi"

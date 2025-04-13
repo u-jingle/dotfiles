@@ -75,6 +75,7 @@ plugins=(
   zsh-syntax-highlighting
   zsh-autosuggestions
   fzf
+  virtualenv
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -113,7 +114,7 @@ alias vv='vi ~/.vimrc'
 alias vg='vi ~/.gitconfig'
 
 # trash-cli
-export PATH="/usr/local/opt/trash-cli/bin:$PATH"
+export PATH="/opt/homebrew/opt/trash-cli/bin:$PATH"
 alias tp="trash-put"
 alias tl="trash-list"
 alias tr="trash-restore"
