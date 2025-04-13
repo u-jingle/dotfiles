@@ -14,6 +14,9 @@ $(brew --prefix)/opt/fzf/install
 # tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
+# vim plugin
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
 # mise
 mise use -g usage
 
